@@ -2,14 +2,14 @@
 
 
 
-´´´bash
+```bash
 sudo docker pull osrf/space-ros
-´´´
+```
 
 
-´´´bash
+```bash
 sudo docker run -it --rm --gpus all osrf/space-ros:latest /bin/bash
-´´´
+```
 
 
 ## Links
